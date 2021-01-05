@@ -1,0 +1,16 @@
+C:\Users\19712\Desktop\.Net\msbi\day2\oops2\obj\Debug\net5.0\oops2.csprojAssemblyReference.cache
+C:\Users\19712\Desktop\.Net\msbi\day2\oops2\obj\Debug\net5.0\oops2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\19712\Desktop\.Net\msbi\day2\oops2\obj\Debug\net5.0\oops2.AssemblyInfoInputs.cache
+C:\Users\19712\Desktop\.Net\msbi\day2\oops2\obj\Debug\net5.0\oops2.AssemblyInfo.cs
+C:\Users\19712\Desktop\.Net\msbi\day2\oops2\obj\Debug\net5.0\oops2.csproj.CoreCompileInputs.cache
+C:\Users\19712\Desktop\.Net\msbi\day2\oops2\bin\Debug\net5.0\oops2.exe
+C:\Users\19712\Desktop\.Net\msbi\day2\oops2\bin\Debug\net5.0\oops2.deps.json
+C:\Users\19712\Desktop\.Net\msbi\day2\oops2\bin\Debug\net5.0\oops2.runtimeconfig.json
+C:\Users\19712\Desktop\.Net\msbi\day2\oops2\bin\Debug\net5.0\oops2.runtimeconfig.dev.json
+C:\Users\19712\Desktop\.Net\msbi\day2\oops2\bin\Debug\net5.0\oops2.dll
+C:\Users\19712\Desktop\.Net\msbi\day2\oops2\bin\Debug\net5.0\ref\oops2.dll
+C:\Users\19712\Desktop\.Net\msbi\day2\oops2\bin\Debug\net5.0\oops2.pdb
+C:\Users\19712\Desktop\.Net\msbi\day2\oops2\obj\Debug\net5.0\oops2.dll
+C:\Users\19712\Desktop\.Net\msbi\day2\oops2\obj\Debug\net5.0\ref\oops2.dll
+C:\Users\19712\Desktop\.Net\msbi\day2\oops2\obj\Debug\net5.0\oops2.pdb
+C:\Users\19712\Desktop\.Net\msbi\day2\oops2\obj\Debug\net5.0\oops2.genruntimeconfig.cache

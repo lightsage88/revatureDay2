@@ -1,0 +1,16 @@
+C:\Users\19712\Desktop\.Net\MSBI\day2\collectiondemo\collectionsdemo\bin\Debug\net5.0\collectionsdemo.exe
+C:\Users\19712\Desktop\.Net\MSBI\day2\collectiondemo\collectionsdemo\bin\Debug\net5.0\collectionsdemo.deps.json
+C:\Users\19712\Desktop\.Net\MSBI\day2\collectiondemo\collectionsdemo\bin\Debug\net5.0\collectionsdemo.runtimeconfig.json
+C:\Users\19712\Desktop\.Net\MSBI\day2\collectiondemo\collectionsdemo\bin\Debug\net5.0\collectionsdemo.runtimeconfig.dev.json
+C:\Users\19712\Desktop\.Net\MSBI\day2\collectiondemo\collectionsdemo\bin\Debug\net5.0\collectionsdemo.dll
+C:\Users\19712\Desktop\.Net\MSBI\day2\collectiondemo\collectionsdemo\bin\Debug\net5.0\ref\collectionsdemo.dll
+C:\Users\19712\Desktop\.Net\MSBI\day2\collectiondemo\collectionsdemo\bin\Debug\net5.0\collectionsdemo.pdb
+C:\Users\19712\Desktop\.Net\MSBI\day2\collectiondemo\collectionsdemo\obj\Debug\net5.0\collectionsdemo.csprojAssemblyReference.cache
+C:\Users\19712\Desktop\.Net\MSBI\day2\collectiondemo\collectionsdemo\obj\Debug\net5.0\collectionsdemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\19712\Desktop\.Net\MSBI\day2\collectiondemo\collectionsdemo\obj\Debug\net5.0\collectionsdemo.AssemblyInfoInputs.cache
+C:\Users\19712\Desktop\.Net\MSBI\day2\collectiondemo\collectionsdemo\obj\Debug\net5.0\collectionsdemo.AssemblyInfo.cs
+C:\Users\19712\Desktop\.Net\MSBI\day2\collectiondemo\collectionsdemo\obj\Debug\net5.0\collectionsdemo.csproj.CoreCompileInputs.cache
+C:\Users\19712\Desktop\.Net\MSBI\day2\collectiondemo\collectionsdemo\obj\Debug\net5.0\collectionsdemo.dll
+C:\Users\19712\Desktop\.Net\MSBI\day2\collectiondemo\collectionsdemo\obj\Debug\net5.0\ref\collectionsdemo.dll
+C:\Users\19712\Desktop\.Net\MSBI\day2\collectiondemo\collectionsdemo\obj\Debug\net5.0\collectionsdemo.pdb
+C:\Users\19712\Desktop\.Net\MSBI\day2\collectiondemo\collectionsdemo\obj\Debug\net5.0\collectionsdemo.genruntimeconfig.cache
